@@ -1,6 +1,8 @@
 
 # Campo-Minado
 
+🚀 Compartilhando meu novo projeto, desenvolvido com o auxílio do incrível curso de Java pelo **Leonardo Leitão**, pela platamforma da Udemy! 📚💻
+
 Este é um jogo de Campo Minado desenvolvido em **Java**.
 O objetivo do jogo é marcar todas as células que contêm minas e abrir todas as células seguras sem acionar uma mina.
 
@@ -17,3 +19,5 @@ O objetivo do jogo é marcar todas as células que contêm minas e abrir todas a
 2. Clone este repositório para o seu ambiente local.
 3. Compile o código-fonte usando um compilador Java.
 4. Execute o programa Java para iniciar o jogo.
+
+Espero que você se divirta jogando o Campo Minado tanto quanto eu me diverti criando-o! 🎮😄
